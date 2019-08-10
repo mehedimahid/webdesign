@@ -1,0 +1,15 @@
+#net p:first-letter {
+    font-size: 50px;
+}
+#net p:first-child{
+    color:red;
+}
+#net p:last-child{
+    color:yellow;
+}
+#net p:before{
+    content:"i have a ";
+}
+#net p:after{
+    content: " name is sumsung";
+}

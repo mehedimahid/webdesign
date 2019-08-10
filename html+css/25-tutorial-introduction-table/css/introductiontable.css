@@ -1,0 +1,13 @@
+caption{
+    color:red;
+}
+#red{
+    background-color: black;
+    color:green;
+}
+#blue{
+    background-color: darkgoldenrod;
+}
+tr th{
+    background-color: white;
+}

@@ -1,0 +1,27 @@
+.head{
+    color: white;
+    background-color: red;
+    width: 70px;
+    float: left;
+    border: 5px solid black;
+
+}
+
+.news{
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 5px dotted green;
+    float: left;
+    width: 300px;
+}
+.about{
+    clear: left;
+}
+.about ul li{
+background-color: green;
+list-style: none;
+padding:10px;
+margin: 5px;
+width: 100px;
+display:block;
+}
