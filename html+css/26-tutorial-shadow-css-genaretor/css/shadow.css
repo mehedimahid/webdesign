@@ -1,11 +1,31 @@
+<<<<<<< HEAD
+.one{
+  padding:50px;
+  margin: 50px;
+  background-color:#f1f1f1;
+=======
 div{
   padding:50px;
   margin: 50px;
   background-color: red;
+>>>>>>> master
   width: 100px;
   height: 1oopx;  
   color:green;
   border-radius: 150px;
+<<<<<<< HEAD
+
+}
+.two{    color: green;
+  background-color: #f1f1f1;
+  width: 200px;
+  height: 200px;
+  border: 2px solid red;
+  margin-left: 34px;
+  box-shadow: 0px 0px 50px -20px #000;
+  margin-bottom: 100px;
+=======
 moz-border-radius:150px;
 
+>>>>>>> master
 }

@@ -1,0 +1,25 @@
+#head{
+    color: red;
+    background-color: green;
+    margin: 0px 20px;
+    border: 2px solid black;
+    padding:10px;
+    position: fixed;;
+    top:50px;
+    left:50px;
+}
+#body{
+     color:green;
+    background-color:red;
+    margin:20px;
+    border: 2px solid black;
+    padding:10px;
+}
+#foot{
+    color:white;
+    background-color:black ;
+    margin:20px;
+    border: 2px solid red;
+    padding:10px;
+
+}
