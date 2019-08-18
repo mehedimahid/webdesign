@@ -1,0 +1,24 @@
+header {
+    align-items: center;
+    color: #fff;
+    background: #00bbc3;
+    padding: 0px 300px;
+}
+h1{
+    fond-size:0px;
+    margin: 0%
+}
+.flex-conteind {
+    border: 10px solid skyblue;
+    margin: 50px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+.flex-item {
+    background: #00bbc3;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
